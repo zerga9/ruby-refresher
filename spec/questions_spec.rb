@@ -1,5 +1,5 @@
 require 'rspec'
-require_relative './questions'
+require 'questions'
 
 RSpec.configure do |config|
   config.color = true
@@ -195,7 +195,7 @@ describe 'the Friday test :)' do
   end
 
   specify 'word_count_a_file' do
-    n = word_count_a_file 'lorem.txt'
+    n = word_count_a_file 'data/lorem.txt'
     expect(n).to eq 70
   end
 
