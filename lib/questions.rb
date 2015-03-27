@@ -88,7 +88,7 @@ def turn_symbol_into_string(symbol)
 end
 
 # get the average from an array, rounded to the nearest integer
-# so [10, 15, 25] should return 33
+# so [10, 15, 25] should return 17
 def average_of_array(array)
 end
 
