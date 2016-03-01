@@ -1,4 +1,4 @@
-## Friday test!
+## Weekend Challenge
 
 As usual start by
 
