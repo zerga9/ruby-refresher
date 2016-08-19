@@ -1,13 +1,10 @@
-## Weekend Challenge
-
-As usual start by
-
-* Filling out your learning plan self review for the week: https://github.com/makersacademy/learning_plan (if you haven't already)
-* Forking this repo
+## Ruby Refresher
 
 Here we're going to revisit the basics of Ruby. There are 41 questions - you don't have to do every single one (although if you can, that's great). You should be able to do at least 50% of them. They vary in level from quite easy to fairly hard. Work through them and check if they're correct by running the specs.
 
 You should be able to answer most questions with a couple of lines of code, and just a few methods. If you're writing a long, complex solution, there's probably a better way.
+
+As usual, fork the repo - and get ready to revisit a dear old friend :smile:
 
 To run the specs, just run
 
