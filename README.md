@@ -21,7 +21,7 @@ $ rspec questions_spec.rb
 $ rspec spec/questions_spec.rb --tag focus
 ~~~
 
-Also, don't spend the whole weekend on this. Try and do the bulk of them today, revisit it a bit this weekend if you want. Spend the weekend consolodating the stuff we've covered on JS and Node.js, and carrying on with your Node.js apps :smile:
+Also, don't spend the whole weekend on this. Try and do the bulk of them today, revisit it a bit this weekend if you want. Spend the weekend consolidating the stuff we've covered in JS :smile:
 
 Good luck
 
